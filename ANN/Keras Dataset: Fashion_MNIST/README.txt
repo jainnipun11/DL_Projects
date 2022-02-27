@@ -13,3 +13,5 @@ Label	Description
 7	Sneaker
 8	Bag
 9	Ankle boot
+
+Dataset: https://keras.io/api/datasets/fashion_mnist/
