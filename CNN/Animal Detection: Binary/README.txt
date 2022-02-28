@@ -1,1 +1,1 @@
-
+Dataset containing 4000 pictures of cats and dogs (2000 cats, 2000 dogs). We will use 2000 pictures for training, 1000 for validation, and finally 1000 for testing. Comparing the perfomances of two models.
